@@ -130,3 +130,6 @@ dmypy.json
 
 # Windows desktop.ini
 desktop.ini
+
+#ZIP Files
+*.zip
